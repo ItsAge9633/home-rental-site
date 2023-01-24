@@ -14,6 +14,6 @@ Open Xampp and enable Apache, Mysql Services
 
 Import the databse file from Database folder
 
-** URL : http://localhost/Company-System/ **
+** URL : http://localhost/home-rental/ **
 
-Credentials : Admin login - admin:admin@1234 Employee Login - cwit:Cwit@1234, Sarvesh:Sarvesh@1234, Gourav:Gourav@1234, Umer:Umer@1234
+Credentials :register the new user ID 
