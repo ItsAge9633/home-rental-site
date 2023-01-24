@@ -1,6 +1,6 @@
 # home-rental-site
 
-# This project is for practice :)
+This project is for practice :)
 
 
 ** Recommended PHP Version: 7.6+ **
